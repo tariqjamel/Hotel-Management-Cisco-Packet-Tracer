@@ -2,7 +2,8 @@
 
 This project simulates the network infrastructure of a hotel across **three floors** with separate VLANs for various departments. It includes both wired and wireless devices and uses routing between VLANs to ensure secure communication.
 
----
+## Screenshots
+![Hotel Management](image.png)
 
 ## Network Design Highlights
 
@@ -40,10 +41,6 @@ This project simulates the network infrastructure of a hotel across **three floo
 ## Tools Used
 
 - Cisco Packet Tracer (latest version)
-
-## Screenshots
-![Hotel Management](image.png)
-
 
 ## Collaborations
 
